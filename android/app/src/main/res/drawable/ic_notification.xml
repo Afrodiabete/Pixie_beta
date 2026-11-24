@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 通知列小圖示：Android 只取輪廓（白色），畫一個茶杯 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M4,7h12v6a5,5 0,0 1,-5,5h-2a5,5 0,0 1,-5,-5z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M16,8.5h1.5a3,3 0,0 1,0,6h-1.8v-1.8h1.8a1.2,1.2 0,0 0,0,-2.4h-1.5z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M2.5,19.5h16v1.8h-16z" />
+</vector>

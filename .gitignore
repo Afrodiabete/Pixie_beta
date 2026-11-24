@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 打包輸出
+build/
+dist/
+*.spec
+
+# 個人資料（執行時自動產生）
+data/
+self_test.txt
+
+# Android
+android/.gradle/
+android/local.properties
+android/build/
+android/app/build/
+*.apk
+.idea/
+
+# 個人設定（可能含手機同步金鑰），範本見 config_example.json
+config.json
